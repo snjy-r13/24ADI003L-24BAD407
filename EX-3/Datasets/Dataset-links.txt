@@ -1,0 +1,7 @@
+SCENARIO 1 :
+
+https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
+
+SCENARIO 2 :
+
+https://www.kaggle.com/datasets/uciml/autompg-dataset
