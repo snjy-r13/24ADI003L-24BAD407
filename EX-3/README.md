@@ -1,30 +1,31 @@
-# EX-3 — Exercise 3
+# Exercise 3 — EX-3
 
-## 📘 Overview
+This folder contains the implementation of **Exercise 3** for the `24ADI003L-24BAD407` repository.
 
-This folder contains the implementation for **Exercise 3** of the course/project associated with this repository (`24ADI003L-24BAD407`).  
-This exercise demonstrates the concepts taught in **Module/Unit 3** — please update this section with a short summary of what the exercise does (e.g., the problem it solves or the feature it implements).
-
-## 🧾 Contents
+## 📁 Files
 
 | File | Description |
 |------|-------------|
-| `filename1.ext` | Brief description of what this file does |
-| `filename2.ext` | Brief description of what this file does |
-<!-- Add more files as needed -->
+| `EX-3.ipynb` | Jupyter Notebook with the code and explanation for Exercise 3 |
 
-## ⚙️ Requirements
+> If your file has a different name, please update the table accordingly.
 
-List the tools, languages, or libraries needed to run this exercise:
+## 🧠 Description
 
-- Language: e.g., Python 3.x, Java, C
-- Libraries / frameworks:
-  - `libraryA` version
-  - `libraryB` version
-- Anything else (e.g., compiler, interpreter)
+This exercise demonstrates the concepts covered in **Exercise 3** of the course/module.  
 
-## 🚀 Setup
+Example:
+> This notebook implements and visualizes [specific algorithm/task], including data preprocessing, model fitting, and evaluation.
 
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/snjy-r13/24ADI003L-24BAD407.git
+## 🛠️ Tools and Dependencies
+
+To run the notebook locally you need:
+
+- Python 3.7+
+- Jupyter Notebook or Jupyter Lab
+- Required libraries (install via pip)
+- pip install numpy pandas matplotlib seaborn scikit-learn
+
+
+```sh
+pip install -r requirements.txt
