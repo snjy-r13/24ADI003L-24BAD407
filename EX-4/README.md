@@ -20,4 +20,3 @@ To build a probabilistic classification model using naive bayes
   - numpy  
   - scikit-learn  
   - matplotlib & seaborn  
-  - [add others that appear in your code — e.g. xgboost, lightgbm, tensorflow, pytorch, imblearn, nltk, etc.]
